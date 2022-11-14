@@ -6,7 +6,7 @@ const Header = () => {
 			<div className="ui container center j-content-c">
 					<h2>Contact Manager</h2>
 			</div>
-		</div>  
+		</div>
 	);
 };
 
