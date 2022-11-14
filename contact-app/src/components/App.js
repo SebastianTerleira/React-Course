@@ -6,7 +6,13 @@ import ContactList from './ContactList';
 
 
 function App() {
-  
+  return(
+    <div>
+      <Header/>
+      {/* <AddContact/>
+      <ContactList/> */}
+    </div>
+  )
 }
 
 export default App;
